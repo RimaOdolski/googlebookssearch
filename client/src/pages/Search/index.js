@@ -33,7 +33,7 @@ function Search() {
             <Col size="sm-12">
                 <Jumbotron>
                     <h1>Google Books Search</h1>
-                    <h4>Search for and Save Books of Interest</h4>
+                    <h4>Search for and Save Books you like </h4>
                 </Jumbotron>
             </Col>
         </Row>
